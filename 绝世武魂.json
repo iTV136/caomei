@@ -22,34 +22,8 @@
       "filterable": 0,
       "ext": "https://jihulab.com/kfhh/666/-/raw/main/js/douban.js"
     },
-
-    
-   
-    
-
- {"key": "csp_KungFu404","name":"阿里┃设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://jihulab.com/kfhh/666/-/raw/main/alibaba.jar"},
-     
-      
-    
+    {"key": "csp_KungFu404","name":"阿里┃设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://jihulab.com/kfhh/666/-/raw/main/alibaba.jar"},
     {
-      "key": "Aid",
-      "name": "急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      },
-      "gridview": "0-0-4.1"
-    },
-   
-      
-		
-    
-     {
       "key": "csp_XBPQ_6V",
       "name": "宝盒┃4K",
       "type": 3,
@@ -79,17 +53,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/kfhh/666/-/raw/main/sub/dyg.json"
-    },
-
-    {
-      "key": "maolv_open",
-      "name": "毛驴┃4K",
-      "type": 3,
-      "api": "csp_Maolv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://jihulab.com/kfhh/666/-/raw/main/maolv.jar"
     },
     {
       "key": "js_czsapp",
@@ -137,18 +100,7 @@
       "changeable": 1,
       "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
     },
-     
-     {
-      "key": "车妹",
-      "name": "车妹┃2K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-    },
-     {
+    {
       "key": "js_农民",
       "name": "农民┃2K",
       "type": 3,
@@ -158,15 +110,7 @@
       "filterable": 1,
       "ext": "https://notabug.org/ymz123/ymz/raw/master/js/%e5%86%9c%e6%b0%91.js"
     },
-
-    
-     
-  
-   
-    
-      
-    
-     {
+    {
       "key": "TVB云播",
       "name": "极速┃秒播",
       "type": 3,
@@ -176,14 +120,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/kfhh/666/-/raw/main/sub/TVB.json"
     },
-    
-     
-    
-   
-    
-     
-    
-     {"key":"在线之家","name":"外剧┃2K","type":3,"api":"https://gitee.com/kfhh2023/ysdr666/raw/master/js/lib/drpy2.min.js","searchable": 1,
+    {"key":"在线之家","name":"外剧┃2K","type":3,"api":"https://gitee.com/kfhh2023/ysdr666/raw/master/js/lib/drpy2.min.js","searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
     "ext":"https://jihulab.com/kfhh/666/-/raw/main/js/zaixian.js"},
@@ -219,10 +156,7 @@
         "冒险片"
       ]
     },
-     
-   
-    
-     {
+    {
             "key": "索尼",
             "name": "索尼┃2K",
             "type": 1,
@@ -322,20 +256,7 @@
       "filterable": 0,
       "ext": "https://jihulab.com/kfhh/666/-/raw/main/sub/diduan.json"
     },
-    
-    
-     
-   
-    
-    
-      
-   
-     
-       
-   
-    
-      
-     {
+    {
       "key": "量子资源",
       "name": "量子┃秒播",
       "type": 1,
@@ -372,14 +293,6 @@
       "filterable": 0,
       "ext": "https://sk100.tv/api.php/app/"
     },
-    
-
-
-   
-    
-    
-    
-    
     {"key":"兔小贝","name":"宝宝┃启蒙","type":3,"api":"https://jihulab.com/kfhh/666/-/raw/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/kfhh/666/-/raw/main/js/tuxiaobei.js"},
      
     {
@@ -451,10 +364,7 @@
       "type": 2,
       "url": "Sequence"
     },
-    
-    
-      
-     {
+    {
       "name": "在线1",
       "type": 1,
       "url": "http://119.91.123.253:1234/Api/cs.php?url=",
@@ -562,8 +472,6 @@
         }
       }
     },
-     
-    
      {
       "name": "在线2",
       "type": 1,
@@ -579,10 +487,6 @@
         }
       }
     },
-    
-   
-    
-    
     {
       "name": "在线3",
       "type": 1,
@@ -611,12 +515,6 @@
         }
       }
     },
-    
-    
-     
-    
-    
-    
     {
       "name": "在线4",
       "type": 1,
@@ -645,12 +543,6 @@
         }
       }
     },
-    
-    
-    
-    
-    
-   
     {
       "name": "精选1",
       "type": 0,
