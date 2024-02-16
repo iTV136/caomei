@@ -11,13 +11,13 @@
 "sites":[
 
 
-{"key": "348影视","name": "🏆348秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/348.json"},
+{"key": "348影视","name": "🏆348秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/348影视.json"},
 
 {"key": "七新影视","name": "🍎北方小苹果","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/七新影视.json"},
 
 {"key": "御龙高清","name": "🧊御龙高清","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/御龙高清.json"},
 
-{"key": "子子高清","name": "💎双子影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/子子影视.json"},
+{"key": "子子影视","name": "💎双子影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/子子影视.json"},
 
 {"key": "北川影视","name": "🍓北川影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/北川影视.json"},
 
