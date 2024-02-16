@@ -1,6 +1,7 @@
 {
 
-"warningText":"欢迎使用生哥影视盒子资源！请勿购买", 
+"warningText":"欢迎使用生哥影视盒子资源！请勿购买",
+
 "spider":"./Yoursmile.jar;md5;968B226E17CAF498DB6B89473B76D9BE",
 
 "wallpaper":"https://tool.weetai.cn/api",
@@ -20,11 +21,11 @@
 
 {"key": "北川影视","name": "🍓北川影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/北川影视.json"},
 
-{"key": "飞云4k","name": "💎飞云影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/飞云k4.json"}
+{"key": "飞云4k","name": "💎飞云影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/飞云k4.json"},
 
-{"key": "速影影视","name": "💎速影影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/速影影视.json"}
+{"key": "速影影视","name": "💎速影影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/速影影视.json"},
 
-{"key": "攻洛影视","name": "💎攻洛影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/攻洛影视.json"}
+{"key": "攻洛影视","name": "💎攻洛影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/攻洛影视.json"},
 
 {"key":"csp_hck","name":"天下粮库","api":"csp_Hsck","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":" http://2jhsck.cc/ ","jar":"./jar/18.jar"}
 
