@@ -9,27 +9,101 @@
 
 
 "sites":[
+       {
+            "key": "348影视",
+            "name": "🏆348秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/348影视.json"
+        },
+        {
+            "key": "七新影视",
+            "name": "🍎北方小苹果",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/七新影视.json"
+        },
+        {
+            "key": "小鹿影视",
+            "name": "🧊小鹿影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "http://www.xiaoluys.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$31#动漫$4#综艺$3"
+            }
+        },
+        {
+            "key": "子子影视",
+            "name": "💎双子影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/子子影视.json"
+        },
+        {
+            "key": "北川影视",
+            "name": "🍓北川影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/北川影视.json"
+        },
+        {
+            "key": "飞云4k",
+            "name": "💎飞云影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/飞云k4.json"
+        },
+        {
+            "key": "速影影视",
+            "name": "💎速影影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/速影影视.json"
+        },
+        {
+            "key": "攻洛影视",
+            "name": "💎攻洛影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/攻洛影视.json"
+        },
+        {
+            "key": "csp_hck",
+            "name": "仓库Ⅱ福利",
+            "api": "csp_Hsck",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "http://2jhsck.cc/",
+            "jar": "https://agit.ai/124537064/gao/raw/branch/master/JAR/18.jar"
+        }
 
-
-{"key": "348影视","name": "🏆348秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/348影视.json"},
-
-{"key": "七新影视","name": "🍎北方小苹果","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/七新影视.json"},
-
-{"key": "小鹿影视","name": "🧊小鹿影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":{"分类url": "http://www.xiaoluys.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html","分类": "电影$1#电视剧$31#动漫$4#综艺$3"}},
-
-
-
-{"key": "子子影视","name": "💎双子影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/子子影视.json"},
-
-{"key": "北川影视","name": "🍓北川影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/北川影视.json"},
-
-{"key": "飞云4k","name": "💎飞云影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/飞云k4.json"},
-
-{"key": "速影影视","name": "💎速影影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/速影影视.json"},
-
-{"key": "攻洛影视","name": "💎攻洛影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/攻洛影视.json"},
-
-{"key":"csp_hck","name":"仓库Ⅱ福利","api":"csp_Hsck","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":" http://2jhsck.cc/ ","jar":" https://agit.ai/124537064/gao/raw/branch/master/JAR/18.jar"}
 
 
 
