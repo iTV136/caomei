@@ -15,7 +15,9 @@
 
 {"key": "七新影视","name": "🍎北方小苹果","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/七新影视.json"},
 
-{"key": "御龙高清","name": "🧊御龙高清","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/御龙高清.json"},
+{"key": "小鹿影视","name": "🧊小鹿影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":{"分类": "电影$1#电视剧$31#动漫$4#综艺$3","分类url": "http://www.xiaoluys.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html"},
+
+
 
 {"key": "子子影视","name": "💎双子影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./lib/子子影视.json"},
 
