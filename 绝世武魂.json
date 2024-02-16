@@ -68,7 +68,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/kfhh/666/-/raw/main/ali.jar"
+      "jar": "./jar/ali.jar"
     },
      {
       "key": "电影港",
